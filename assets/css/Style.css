@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Macondo&family=Sofadi+One&display=swap');
+
+:root{
+    --cor-de-fundo: #FEF9D9;
+    --cor-primaria: #1648ff;
+    --cor-secundaria: #8967B3;
+    --fonte: "Macondo", cursive;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-color: var(--cor-de-fundo);
+    color: black;
+    font-family: "Macondo", cursive;
+}
+
+header{
+    background-color: #1648ff;
+}
+
+footer{
+    background-color: #8967B3;
+}
+
+a{
+    color: red;
+}
